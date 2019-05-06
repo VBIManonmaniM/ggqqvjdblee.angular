@@ -1,0 +1,10 @@
+/** No CSS for this example */
+mat-panel-title.heading {
+  color: rgba(0, 0, 0, 0.87) !important;
+  font-size: 13px !important;
+  font-weight: bold !important;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+}
